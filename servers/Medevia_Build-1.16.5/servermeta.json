@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/nebula%20test/Nebula/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Medevia Build",
+    "description": "Build server of medevia",
+    "address": "185.41.152.56:55106",
+    "discord": {
+      "shortId": "Médévia Build",
+      "largeImageText": "play.medevia.net",
+      "largeImageKey": "medevialogo"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
